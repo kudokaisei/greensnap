@@ -3,8 +3,7 @@ greensnap（技術課題）
 
 # Overview
 あらかじめ頂いた以下のjsonデータの読み込み、課題内容に基づいた出力をしています。
-:https://greensnap-co-jp.s3-ap-northeast-1.amazonaws.com/exam/post_data.js
-on
+https://greensnap-co-jp.s3-ap-northeast-1.amazonaws.com/exam/post_data.json
 
 # Demo
 ・表示結果
