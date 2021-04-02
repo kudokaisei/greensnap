@@ -1,24 +1,22 @@
-# README
+# Name
+greensnap（技術課題）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Overview
+あらかじめ頂いた以下のjsonデータの読み込み、課題内容に基づいた出力をしています。
+:https://greensnap-co-jp.s3-ap-northeast-1.amazonaws.com/exam/post_data.js
+on
 
-Things you may want to cover:
+# Demo
+・表示結果
+<img width="1429" alt="スクリーンショット 2021-04-02 18 49 25" src="https://user-images.githubusercontent.com/68519582/113405088-3111aa80-93e4-11eb-978b-da14848c677d.png">
 
-* Ruby version
+# Contents
+・publicフォルダ内にjsonデータを格納
+・ビューで読み込み以下の内容で表示
+１：変換：コメントを20文字にカットする
+２：出力：ユーザー名と変換したコメントを出力する
+３：ユーザー名の後ろに「さん」を追加する
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Development 
+・Ruby on Rails  
+・VSCode(Visual Studio Code)  
